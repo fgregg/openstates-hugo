@@ -1,6 +1,8 @@
+baseurl = ""
 languageCode = "en-us"
 title = "Open States Blog"
 theme = "hemingway"
+googleAnalytics = "UA-84709685-2"
 
 [params]
 
