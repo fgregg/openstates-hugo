@@ -1,4 +1,8 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:openstates/openstates.github.io.git
-	branch = master
+    branch = master
+[submodule "hemingway"]
+    path = themes/hemingway
+    url = https://github.com/tanksuzuki/hemingway.git
+    branch = master
