@@ -5,7 +5,7 @@ title = "Adopting Open States"
 author = "James Turk"
 +++
 
-As [Sunlight announced today](#TKTK), a group of Sunlight alumni are taking ownership of Open States with the goal of turning it into an independent, self-sustaining project.
+As [Sunlight announced today](http://sunlightfoundation.com/blog/2016/11/01/sunlight-labs-update-nonprofits-step-up-to-preserve-tools-for-transparency), a group of Sunlight alumni are taking ownership of Open States with the goal of turning it into an independent, self-sustaining project.  We're grateful to Kat Duffy and everyone else at Sunlight for working with us to get to this point.
 
 We wanted to take some time today to explain who we are, what our plans are, and what we need from you if you want to see Open States succeed.
 
@@ -28,7 +28,7 @@ The most recent incarnation of that core team: Paul Tagliamonte, Rachel Shorey, 
 
 We are glad to say that despite knowing the challenges ahead, we aim to ensure that the important resource lives on. I've talked with Miles, Rachel, Paul, Andy, and a great set volunteers, and all have made it known they are ready to step forward to ensure that we'll have an Open States in 2017 and beyond.
 
-## What We Need
+## How To Help
 
 Today we're also asking for your help. The two things we need the most: money and volunteers.
 
@@ -43,7 +43,7 @@ If you're interested in making a larger donation, or funding a specific piece of
 
 Second, we're looking for people that are willing to help us in other ways.  The main task would be to update and (in the future) maintain state scrapers but we're definitely glad to hear other offers of support. We've set up a [volunteer survey](https://goo.gl/forms/u7fuEtBR4UzhDttt2) to help us keep track of these kinds of offers. If you think you could help in any way, please fill it out and we'll be in touch ASAP.
 
-## What's next?
+## Next Steps
 
 Our immediate plan is to stand up an essentially static version of OpenStates.org. We've spent some late nights preparing so that there will be little to no interruption to the most used portions of the site. This will ensure both that the applications depending on Open States' API do not break overnight and that the historical reference material collected on OpenStates.org (in quite a few cases reaching further back than state's own sites) doesn't vanish.
 
