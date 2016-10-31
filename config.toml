@@ -1,6 +1,6 @@
 baseurl = ""
 languageCode = "en-us"
-title = "Open States Blog"
+title = "Open States"
 theme = "hemingway"
 googleAnalytics = "UA-84709685-2"
 
