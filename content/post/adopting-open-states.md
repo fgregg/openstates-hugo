@@ -20,7 +20,7 @@ Open States has always been dependent upon a large community supporters, both te
 
 But of course, it won't be easy.
 
-For most of its existance, Open States has had 3 full-time developers dedicating part of each week to its architecture and scrapers. The most recent incarnation of that core team, Paul Tagliamonte, Rachel Shorey, and Miles Watkins, left Sunlight in 2015. Over this past year the project was only afforded bare-bones staff, kept afloat by the valiant efforts of Andy Lo and those saintly volunteer contributors that have always made the project possible.
+For most of its existence, Open States has had 3 full-time developers dedicating part of each week to its architecture and scrapers. The most recent incarnation of that core team, Paul Tagliamonte, Rachel Shorey, and Miles Watkins, left Sunlight in 2015. Over this past year the project was only afforded bare-bones staff, kept afloat by the valiant efforts of Andy Lo and those saintly volunteer contributors that have always made the project possible.
 
 We are glad to say that, despite knowing the challenges ahead, we aim to ensure that the important resource lives on. I've talked with Miles, Rachel, Paul, Andy, and other volunteers, and all have made it known they are ready to step forward to ensure that we'll have Open States in 2017 and beyond.
 
