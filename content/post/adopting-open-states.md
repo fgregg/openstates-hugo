@@ -36,7 +36,7 @@ If you're an individual who would like to donate to this general fund:
 
 If you're interested in making a larger or institutional donation, or funding a specific piece of development, such as a feature or particular state, please [get in touch with us](mailto:funding@openstates.org).
 
-Second, we're looking for individuals who are willing to help out in other ways.  The main task would be to update and (in the future) maintain state scrapers, but we'd absolutely welcome other offers of support, including non-technical work. We've set up a [volunteer survey](https://goo.gl/forms/u7fuEtBR4UzhDttt2) to help us keep track of these kinds of offers. If you think you could help in any way, please fill it out and we'll be in touch ASAP.
+Second, we're looking for individuals who are willing to help out in other ways.  The main task would be to update and (in the future) maintain state scrapers, but we'd absolutely welcome other offers of support, including non-technical work. We've set up a [volunteer survey](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) to help us keep track of these kinds of offers. If you think you could help in any way, please fill it out and we'll be in touch ASAP.
 
 ## Next Steps
 
@@ -46,8 +46,8 @@ For the most part, we will not be scraping the remainder of the 2016. Most state
 
 Once we are confident in the static site, we aim to start bringing scrapers back online ASAP. We can't yet make any promises about specific timeframes, but we're hoping to have most states online close to the start of their 2017 sessions. We're beginning to look at options to incentivize developers to maintain states, although volunteers will continue to make up an enormous amount of the effort.
 
-To kick off this effort, we'll be organizing a hack day in DC, with the option for folks to join remotely. We'll also be posting regular updates on this block to chronicle our progress. If you're interested in being involved, let us know on [the survey](https://goo.gl/forms/u7fuEtBR4UzhDttt2).
+To kick off this effort, we'll be organizing a hack day in DC, with the option for folks to join remotely. We'll also be posting regular updates on this block to chronicle our progress. If you're interested in being involved, let us know on [the survey](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform).
 
 Beyond that we're evaluating a lot of options to ensure that the project remains sustainable well into the future.  We'll keep updating here, and will certainly be asking for more community input as we evaluate various options.  And to be clear: you are not going to see a paywall around the data, or any kind of restrictions on the source code; Open States isn't Open States if it isn't freely-accessible and open source.
 
-So again, if you value Open States and want to see it succeed as an independent project, please consider [donating](https://www.generosity.com/fundraising/open-states-general-support-fund/x/15330084) today and/or [filling out our volunteer survey](https://goo.gl/forms/u7fuEtBR4UzhDttt2). Thanks for your help!
+So again, if you value Open States and want to see it succeed as an independent project, please consider [donating](https://www.generosity.com/fundraising/open-states-general-support-fund/x/15330084) today and/or [filling out our volunteer survey](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform). Thanks for your help!
