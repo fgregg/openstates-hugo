@@ -37,6 +37,8 @@ Open States has always been a data-first project.  All Open States data is avail
 
 ## The Future of Open States
 
+![](/img/open-states_logo_1000.png)
+
 We have immediate plans to repair and rebuild Open States over the coming months, as outlined in our [previous blog post](/post/adopting-open-states/).  But we're not only taking on Open States because we want to keep serving the same, reliable data that users have appreciated for years, but also because there is a lot more we'd like to do with Open States in the future.
 
 We are going to double down on making the dataset as accessible and useful as possible, focusing first on introducing a new, more powerful API based on the [Open Civic Data](https://opencivicdata.org) system.  And looking forward, we have plans for further collaboration with journalists, academics, and others, to improve access to legislative data for everyone.

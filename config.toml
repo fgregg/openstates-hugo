@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Open States"
 theme = "hemingway"
 googleAnalytics = "UA-84709685-2"
+copyright = 'Open States blog content is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>.'
 
 [params]
 

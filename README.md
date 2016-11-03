@@ -1,4 +1,6 @@
-Test locally with `hugo server`.
+[blog.openstates.org](http://blog.openstates.org)
+
+Test locally with `hugo server -wD`.
 
 Must have the theme installed. If it isn't installed locally yet, `cd themes` and [`git clone` the Hemingway theme](https://github.com/tanksuzuki/hemingway). `hugo -v` for verbose error diagnosis when building.
 
