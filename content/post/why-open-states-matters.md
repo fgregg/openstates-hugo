@@ -1,8 +1,8 @@
 +++
 date = "2016-11-03"
-draft = true
+draft = false
 title = "Why Open States?"
-author = "James Turk"
+author = "James Turk, Miles Watkins"
 +++
 
 [We announced](/post/adopting-open-states/) earlier this week that Open States is now being maintained by the original creators of the project, a community of Sunlight Foundation alumni and other volunteers.
