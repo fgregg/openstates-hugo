@@ -5,45 +5,42 @@ title = "Why Open States?"
 author = "James Turk"
 +++
 
-Earlier this week we [announced](/post/adopting-open-states/) that Open States is now maintained by the community of Sunlight Foundation alumni and volunteers that created the project.
+[We announced](/post/adopting-open-states/) earlier this week that Open States is now being maintained by the original creators of the project, a community of Sunlight Foundation alumni and other volunteers.
 
-We expect that getting Open States fully operational again will take a significant effort, and we know from experience that maintaining the many scrapers isn't easy either.  
+After a year of scant staffing culminating in [the closure of Sunlight Labs](https://sunlightfoundation.com/blog/2016/09/20/statement-from-sunlight-foundations-board-chairman/), we expect that getting Open States fully operational again will take a significant effort, and we know from experience that maintaining the menagerie of scrapers into the future isn't easy either.
 
-_Of course that's part of why we're looking for [volunteers](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) and [donations](https://generosity.com/fundraisers/open-states-general-support-fund)._
+_(Of course that's why we're looking for [volunteers](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) and [donations](https://generosity.com/fundraisers/open-states-general-support-fund).)_
 
-We thought it might be worth explaining why, despite the challenges, we are undertaking this new effort.  In short, why we think Open States matters.
+So why, despite the challenges, we are taking on this project?  Why do we think that Open States matters so much?  And where do we plan on taking this tool going forward?
 
 ## Open States So Far
 
-Over seven years ago, Sunlight Labs [announced](https://sunlightfoundation.com/blog/2009/02/26/fifty-state-project/) what we then called the Fifty State Project, an effort to provide the public with information on America's state legislatures.
+Over seven years ago, Sunlight Labs [announced](https://sunlightfoundation.com/blog/2009/02/26/fifty-state-project/) "The Fifty State Project," an effort to provide the public with information on America's state legislatures.
 
 ![](/img/fiftystates-logo.png)
 
-The goal was ambitious, to replicate the service provided by sites like [GovTrack](https://govtrack.us/) for every state legislature in the country, aggregating and structuring data on [over 7,000 elected officials](http://www.ncsl.org/research/about-state-legislatures/number-of-legislators-and-length-of-terms.aspx) and the tens of thousands of bills that they brought to the floor each year.
+The goal was ambitious, to replicate the federal data services provided by sites like [GovTrack](https://govtrack.us/), but across every state legislature in the country. Over time, the Fifty State Project became Open States, and we ended up aggregating and structuring data every day on [over 7,000 legislators](http://www.ncsl.org/research/about-state-legislatures/number-of-legislators-and-length-of-terms.aspx), and the tens of thousands of bills that they brought to the floor each year. It was only with the full support of the Sunlight Foundation, its funders, and code contributions from dozens of friends in the civic tech community that we were able to accomplish this.
 
-It was only with the full support of the Sunlight Foundation, its funders, and code contributions from dozens of friends in the civic tech community that we were able to accomplish that goal.
-
-Over the last six years, the project grew beyond anything we'd imagined.
-
-A few highlights:
+Over those years, the project grew beyond anything we could've imagined. A few highlights include:
 
 * More than 75 [contributors](https://github.com/openstates/openstates/graphs/contributors) stepped forward to help us make the project what it is today.
-* In 2013 [we launched](https://www.youtube.com/watch?v=lHKbMg1tPsg) our full website, a place for people to track legislators and legislation in their states.
-* The API grew to be Sunlight's most popular data resource, with millions of requests each month.
-* The project inspired several other amazing projects like [OpenElections](http://openelections.net/faq/) that tapped into the potential of the larger civic tech community to come together to achieve otherwise impossible goals.
-* We saw the creation of Open States-powered tools like [MinnPost's Legislature Tracker](http://code.minnpost.com/legislature-tracker/), an Open Source tool that built on Open States to allow news organizations to build custom bill trackers.  That tool was adopted in at least four other states.
-* A team at UChicago's Data Science for Social Good program built the [Legislative Influence Detector](https://dssg.uchicago.edu/lid/), finding where model bills written by lobbying organizations find their way into actual legislation and law.
+* In 2013 [we launched](https://www.youtube.com/watch?v=lHKbMg1tPsg) our full website, a place for people to identify their legislators and track the bills that touched their everyday lives.
+* The Open States API grew to be Sunlight's most popular data resource, with tens of millions of requests each year.
 
-These last two points in particular highlight the potential transformative power of Open States.  While there paid services exist that provide some of the same data as Open States, they are expensive and geared primarily at web use.  Open States is unique in that it is open data, freely available, and extensible by the community.
+The project also inspired several other amazing civic tech efforts, such as [OpenElections](http://openelections.net/faq/), which through community contributions have achieved otherwise-impossible goals.
 
-While [OpenStates.org](http://openstates.org) is a valuable resource for individuals, the real power of Open States is that it has always been a data-first project.  All Open States data is available via the API and bulk downloads, so that researchers, journalists, and activists can build on the platform.
+However, our proudest enablings of civic tech have come when others have built upon Open States data, contextualizing and analyzing it in new ways. For example, the MinnPost used Open States as the basis for its [Legislature Tracker](http://code.minnpost.com/legislature-tracker/), leveraging our data so that newsrooms could generate custom bill trackers. This went on to be used by journalists across five states. Additionally, a team at UChicago's Data Science for Social Good program used Open States' full-text legislation data to build the [Legislative Influence Detector](https://dssg.uchicago.edu/lid/), which exposes where language from lobbying organizations has found its way into actual state legislation.
+
+Tools like these embody the potential of Open States.  While some for-pay services can provide similar data, they are expensive and geared towards point-and-click web use.  Open States is unique in that it provides open data, freely available code, and is extensible by anyone.
+
+Open States has always been a data-first project.  All Open States data is available via the API and bulk downloads, so that researchers, journalists, and activists can build on the platform. And [OpenStates.org](http://openstates.org) is the icing on the cake, opening up this database to casual or non-technical users.
 
 ## The Future of Open States
 
-Our [first post](/post/adopting-open-states/) details our immediate plans to repair & rebuild Open States in coming months.  We're doing this not only because we're hopeful to continue providing the same Open States that people have been using for four years, but because there is a lot more we'd like to do with Open States in the future.
+We have immediate plans to repair and rebuild Open States over the coming months, as outlined in our [previous blog post](/post/adopting-open-states/).  But we're not only taking on Open States because we want to keep serving the same, reliable data that users have appreciated for years, but also because there is a lot more we'd like to do with Open States in the future.
 
-We plan to double down on making the data as accessible and useful as possible, introducing a new more powerful API based on the [Open Civic Data](https://opencivicdata.org) platform.  Beyond that we hope to find opportunities to collaborate more with journalists and other users with specific needs to fill gaps in the available information and provide easier to use tools.
+We are going to double down on making the dataset as accessible and useful as possible, focusing first on introducing a new, more powerful API based on the [Open Civic Data](https://opencivicdata.org) system.  And looking forward, we have plans for further collaboration with journalists, academics, and others, to improve access to legislative data for everyone.
 
-We'd love to hear from those of you that are interested in using state legislative data in new and interesting ways.  If you're considering a new project using Open States or want to make us aware of your current project, please [get in touch](mailto:contact@openstates.org).
+We'd love to hear from you if you're interested in using state legislative data in new and interesting ways.  If you're considering a new project using Open States or want to make us aware of your current project, please [get in touch](mailto:contact@openstates.org)!
 
-And of course, please consider [signing up as a potential volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) or [making a small donation](https://generosity.com/fundraisers/open-states-general-support-fund).
+And of course, please consider [signing up as a potential volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) or [making a small donation](https://generosity.com/fundraisers/open-states-general-support-fund). Thank you for your support as we take Open States into the future!
